@@ -1,4 +1,7 @@
 export default {
 	path: '/Cinema',
-	component: () => import ('@/views/Cinema')  
+	component: () => import ('@/views/Cinema'),
+	Children:[
+		
+	]
 }
